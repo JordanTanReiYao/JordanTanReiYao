@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
 <h1>👋 Jordan Tan Rei Yao</h1>
                <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=JordanTanReiYao&count_private=true&theme=tokyonight&showicons=true"/>
