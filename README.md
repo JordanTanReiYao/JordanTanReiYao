@@ -1,4 +1,4 @@
-<h1 align="center>Jordan Tan Rei Yao</h1>
+<h1 align="center">Jordan Tan Rei Yao</h1>
 
 [![Jordan's Github Stats](https://github-readme-stats.vercel.app/api/?username=JordanTanReiYao&count_private=true&theme=tokyonight&showicons=true)]()
 
