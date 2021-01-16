@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Jordan's Github Stats](https://github-readme-stats.vercel.app/api/?username=JordanTanReiYao&count_private=true&theme=tokyonight&showicons=true)]()
+[[Jordan's Github Stats](https://github-readme-stats.vercel.app/api/?username=JordanTanReiYao&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 <!--
