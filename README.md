@@ -1,6 +1,7 @@
 
 
 [![Jordan's Github Stats](https://github-readme-stats.vercel.app/api/?username=JordanTanReiYao&count_private=true&theme=tokyonight&showicons=true)]()
+<br/>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanTanReiYao&langs_count=5&theme=tokyonight)]()
 
 
