@@ -1,8 +1,9 @@
-<div align="center">
+[![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=JordanTanReiYao&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JordanTanReiYao/github-readme-stats)
+<!--<div align="center">
 <h1>👋 Jordan Tan Rei Yao</h1>
   <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=JordanTanReiYao&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true">
-</div>
+</div>-->
 
 
 
