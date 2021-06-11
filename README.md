@@ -1,5 +1,6 @@
 ![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=JordanTanReiYao&theme=tokyonight&count_private=true)
 
+![](https://komarev.com/ghpvc/?username=JordanTanReiYao)
 
 
 <!--<div align="center">
