@@ -1,7 +1,6 @@
 ![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=JordanTanReiYao&theme=tokyonight&count_private=true)
 
 
-
 <!--<div align="center">
 <h1>👋 Jordan Tan Rei Yao</h1>
   <br>
