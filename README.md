@@ -1,4 +1,4 @@
-![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=JordanTanReiYao&theme=tokyonight&count_private=true)
+![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=JordanTanReiYao&count_private=true&theme=tokyonight)
 
 
 <!--<div align="center">
